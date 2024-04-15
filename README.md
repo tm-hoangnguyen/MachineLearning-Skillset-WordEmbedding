@@ -23,3 +23,5 @@ For more information on how to calculate tokens and pricing for the GPT-3.5 Turb
 This folder loads Word2Vec pre-trained model and implements DBSCAN clustering with parameters to optimally reduce noise data points
 
 In addition, it includes two graphs to identify the best epsilon and dimensions for each skill vector.
+
+Tableau Public Visualization: [https://public.tableau.com/authoring/SkillNetwork_View_HoangN_6242/Dashboard1#1](url)
