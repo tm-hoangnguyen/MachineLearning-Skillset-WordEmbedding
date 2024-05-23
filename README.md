@@ -2,9 +2,9 @@
 
 The project focuses on analyzing key skills needed for a specific job title. Using the OpenAI API 3.5 Turbo, the code extracts top skills from a dataset of 10,000 job descriptions. These skills are vectorized using Google-News-300 pre-trained Word2Vec model, which contains 300-dimensional vectors for 3M words and phrases derived from about 100B words of data. Following vectorization, the skills are clustered and fine-tuned using the DBSCAN to identify patterns among the skills.
 
-Source: [https://www.kaggle.com/datasets/arshkon/linkedin-job-postings](url).
+Source: https://www.kaggle.com/datasets/arshkon/linkedin-job-postings
 
-Tableau Public Visualization: [https://public.tableau.com/views/SkillNetwork_View_HoangN_6242/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link](url)
+Tableau Public Visualization: https://public.tableau.com/views/SkillNetwork_View_HoangN_6242/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
 
 ## Data Manipulation
 This folder includes scripts to connect to RDS instance and utilize OpenAI API to extract key job skills from "description" column. For each job description, there will be a corresponding list of key skills.
