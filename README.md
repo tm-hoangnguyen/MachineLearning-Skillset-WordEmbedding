@@ -4,7 +4,7 @@ The project focuses on analyzing key skills needed for a specific job title. Usi
 
 Source: [https://www.kaggle.com/datasets/arshkon/linkedin-job-postings](url).
 
-Tableau Public Visualization: [https://public.tableau.com/authoring/SkillNetwork_View_HoangN_6242/Dashboard1#1](url)
+Tableau Public Visualization: [https://public.tableau.com/app/profile/tan.minh.hoang.nguyen/viz/SkillNetwork_View_HoangN_6242/Dashboard1](url)
 
 ## Data Manipulation
 This folder includes scripts to connect to RDS instance and utilize OpenAI API to extract key job skills from "description" column. For each job description, there will be a corresponding list of key skills.
