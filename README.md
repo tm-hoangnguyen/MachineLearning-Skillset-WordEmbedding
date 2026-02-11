@@ -6,6 +6,8 @@ Source: https://www.kaggle.com/datasets/arshkon/linkedin-job-postings
 
 Tableau Public Visualization: https://public.tableau.com/views/SkillNetwork_View_HoangN_6242/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
 
+<img width="1043" height="809" alt="image" src="https://github.com/user-attachments/assets/65e6568f-3441-432d-8323-70d41eebe993" />
+
 ## Data Manipulation
 This folder includes scripts to connect to RDS instance and utilize OpenAI API to extract key job skills from "description" column. For each job description, there will be a corresponding list of key skills.
 
